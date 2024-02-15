@@ -1,5 +1,5 @@
 getgenv().Setting = {
-    ["Team"] = "Marines", -- Start With Team Marines, Pirates
+    ["AutoStartTeam"] = "Marines", -- Start With Team Marines, Pirates
     ["WhiteScreen"] = false, -- White Screen
     ["FpsBoost"] = false, -- Fps Boost
     ["AutoRejoin"] = true, -- AutoRejoin
