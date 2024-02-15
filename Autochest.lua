@@ -1,5 +1,5 @@
 getgenv().Setting = {
-    ["Team"] = "Marines", -- Start With Team Pirates, Marines
+    ["Team"] = "Marines", -- Start With Team Marines, Pirates
     ["WhiteScreen"] = false, -- White Screen
     ["FpsBoost"] = false, -- Fps Boost
     ["AutoRejoin"] = true, -- AutoRejoin
@@ -526,7 +526,7 @@ logo.BorderColor3 = Color3.fromRGB(0, 0, 0)
 logo.BorderSizePixel = 0
 logo.Position = UDim2.new(0.0274999999, 0, 0.0560000017, 0)
 logo.Size = UDim2.new(0, 60, 0, 60)
-logo.Image = "https://i.imgur.com/p9gFckI.png"
+logo.Image = "rbxassetid://716334809"
 local MainStroke = Instance.new("UIStroke")
 MainStroke.Name = "BtnStroke"
 MainStroke.Parent = logo
